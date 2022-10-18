@@ -1,5 +1,10 @@
 ![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)
 
+```
+print('Hello World!')
+Hello World!
+```
+
 About me
 ## I'm a beginner Qa engineer
 
@@ -13,5 +18,6 @@ About me
 ![Vmware](https://img.shields.io/badge/vmware-090909?style=for-the-badge&logo=vmware)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=bdf75e)
+
 ## Follow me
 
