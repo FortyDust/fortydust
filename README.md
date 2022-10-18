@@ -1,4 +1,4 @@
-|[Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)
+![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)
 
 About me
 
