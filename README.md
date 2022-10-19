@@ -4,8 +4,10 @@
 >>> print('Hello World!')
 Hello World!
 ```
+<hr>
+<h1>About me</h1>
+<hr>
 
-About me
 ## I'm a beginner Qa engineer
 
 ## Languages and Tools
@@ -18,6 +20,7 @@ About me
 ![Vmware](https://img.shields.io/badge/vmware-090909?style=for-the-badge&logo=vmware)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=bdf75e)
+<hr>
 
 ## Follow me
 
