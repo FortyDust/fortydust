@@ -17,7 +17,7 @@ Hello World!
 
 [Check-list collection](https://github.com/FortyDust/check-list_collection)
 
-[Test-case collection](https://github.com/FortyDust/https://github.com/FortyDust/test-case_collection)
+[Test-case collection](https://github.com/FortyDust/test-case_collection)
 <hr>
 
 ## Languages and Tools
@@ -37,7 +37,7 @@ Hello World!
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)]()
 <hr>
 
-[![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=fortydust&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fortydust/github-readme-stats)
+[![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=fortydust&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortydust&layout=compact)](https://github.com/fortydust/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortydust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
