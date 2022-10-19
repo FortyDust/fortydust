@@ -39,11 +39,11 @@ Hello World!
 <!-- Social media -->
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/FD_SergeyIT)
-[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)]()
 <hr>
 
+
 <!-- GiHub stats -->
-[![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=fortydust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=FortyDust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FortyDust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
