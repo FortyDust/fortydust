@@ -1,5 +1,4 @@
-[![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)
-(https://github.com/FortyDust)]
+[![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)](https://github.com/FortyDust)
 
 ```
 >>> print('Hello World!')
