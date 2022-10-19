@@ -12,6 +12,11 @@ Hello World!
 ## I'm a Qa engineer
 <hr>
 
+## Testing Documentation
+[Postman collection](https://github.com/FortyDust/postman_collection)
+[Check-list collection](https://github.com/FortyDust/check-list_collection)
+[Test-case collection](https://github.com/FortyDust/https://github.com/FortyDust/test-case_collection)
+
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=5ebaf7)
