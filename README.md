@@ -5,10 +5,12 @@
 Hello World!
 ```
 <hr>
-<h1>About me</h1>
+
+# About me
 <hr>
 
-## I'm a beginner Qa engineer
+## I'm a Qa engineer
+<hr>
 
 ## Languages and Tools
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman)
@@ -24,6 +26,10 @@ Hello World!
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/FD_SergeyIT)
-[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)](https://t.me/FD_SergeyIT)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)]()
+<hr>
 
+[![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=fortydust&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/fortydust/github-readme-stats)
+<hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fortydust&layout=compact)](https://github.com/fortydust/github-readme-stats)
