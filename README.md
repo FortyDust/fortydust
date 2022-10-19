@@ -1,3 +1,10 @@
+<style>
+hr{
+    border: none;
+    background-color: #5ef0f7;
+    height: 2px;}
+</style>
+
 ![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)
 
 ```
