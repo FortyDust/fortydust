@@ -13,12 +13,14 @@ Hello World!
 <hr>
 
 <!-- Dock's -->
-## Testing Documentation
+## Examples of my work
 [Postman collection](https://github.com/FortyDust/postman_collection)
 
 [Check-list collection](https://github.com/FortyDust/check-list_collection)
 
 [Test-case collection](https://github.com/FortyDust/test-case_collection)
+
+[Bug report](https://github.com/FortyDust/bug_report)
 <hr>
 
 <!-- Tools -->
