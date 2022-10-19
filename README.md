@@ -22,5 +22,8 @@ Hello World!
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=bdf75e)
 <hr>
 
-## Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/FD_SergeyIT)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)](https://t.me/FD_SergeyIT)
+
 
