@@ -9,7 +9,7 @@ Hello World!
 # About me
 <hr>
 
-## I'm a Qa engineer
+## My name is Sergey. I'm a Qa engineer
 <hr>
 
 <!-- Dock's -->
