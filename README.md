@@ -1,16 +1,14 @@
 [![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)](https://github.com/FortyDust)
 
 ```
->>> print('Hello World!')
-Hello World!
+>>> print(me)
+My name is Sergey. I'm a Qa engineer
 ```
 <hr>
 
 # About me
 <hr>
 
-## My name is Sergey. I'm a Qa engineer
-<hr>
 
 <!-- Dock's -->
 ## Examples of my work
@@ -44,6 +42,7 @@ Hello World!
 
 <!-- GiHub stats -->
 [![FortyDust GitHub stats](https://github-readme-stats.vercel.app/api?username=FortyDust&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FortyDust&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
