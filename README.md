@@ -1,16 +1,10 @@
-[![Header](https://github.com/FortyDust/fortydust/blob/main/assets/cover.png)](https://github.com/FortyDust)
-
-```
->>> print(me)
-My name is Sergey. I'm a Qa engineer
-```
-<hr>
-
+<!-- About me -->
 # About me
-<hr>
-
+# <h3> Hello! My name is Sergey. I'm a Qa engineer. </h3>
 
 <!-- Dock's -->
+<hr>
+
 ## Examples of my work
 [Postman collection](https://github.com/FortyDust/postman_collection)
 
